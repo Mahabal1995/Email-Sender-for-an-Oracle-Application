@@ -1,0 +1,14 @@
+{
+  "to": "mahabalshrivatsa95@gmail.com",
+  "from": "erp.kmf@uttaraerp.com",
+  "cc": "br.mahabal@gmail.com",
+  "bcc": "",
+  "subject": "Test Email from Node.js",
+  "body": "This is a test email sent from Node.js using Gmail SMTP.",
+  "attachments": [
+    {
+      "filename": "attachment.txt",
+      "content": "This is the content of the attachment file."
+    }
+  ]
+}

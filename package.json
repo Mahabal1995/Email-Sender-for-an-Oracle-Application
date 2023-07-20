@@ -1,0 +1,17 @@
+{
+  "name": "my-email-api",
+  "version": "1.0.0",
+  "description": "An api to send emails programatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mahabal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.3",
+    "request": "^2.88.2"
+  }
+}
